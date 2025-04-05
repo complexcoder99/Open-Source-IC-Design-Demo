@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project takes a 2 bit binary number and evaluating if it is odd or even. 
 
 ## How to test
 
-Explain how to use your project
+Use the 1 and 2 switches (labled A and B) to make a 2 bit number, and the output led(on the right) will light up if it is even, and not light up 
+when it is odd
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+wokwi-dip-switch-8
+XOR gate, NOT gate 
+LED's. 
