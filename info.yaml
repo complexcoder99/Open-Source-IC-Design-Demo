@@ -15,9 +15,9 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "First bit"
-  ui[1]: "Second bit"
-  ui[2]: ""
+  ui[0]: ""
+  ui[1]: "first bit"
+  ui[2]: "second bit"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
